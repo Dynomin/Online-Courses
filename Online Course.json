@@ -1679,6 +1679,13 @@
         "platform": "free code camp",
         "courseLink": "https://www.freecodecamp.org/learn/front-end-development-libraries/"
     },
+	
+    {
+        "id": "990",
+        "courseName": "Front End Development Libraries",
+        "platform": "Great Learning",
+        "courseLink": "https://olympus.mygreatlearning.com/learner_dashboard"
+    },
     {
         "id": "60",
         "courseName": "Java",
