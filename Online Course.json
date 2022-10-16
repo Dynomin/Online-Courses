@@ -25,9 +25,15 @@
     },
     {
         "id" : "12",
-        "courseName" : "Python for non programmers",
+        "courseName" : "Introduction to Hadoop 3.0",
         "platform" : "Great Learning",
         "courseLink" : "https://www.simplilearn.com/learn-java-basics-skillup"
+      },
+	{
+        "id" : "12883",
+        "courseName" : "Python for non programmers",
+        "platform" : "Great Learning",
+        "courseLink" : "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-hadoop-3-0"
       },
 	{
         "id": "238",
