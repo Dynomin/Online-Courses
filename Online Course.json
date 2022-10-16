@@ -16,6 +16,12 @@
         "courseName": "DSA",
         "platform": "GFG",
         "courseLink": "https://www.geeksforgeeks.org/data-structures/"
+    }, 
+	{
+        "id": "9993",
+        "courseName": "Front End Development - CSS only",
+        "platform": "GL",
+        "courseLink": "https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-css"
     },
 	{
         "id": "201",
